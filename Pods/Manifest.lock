@@ -1,0 +1,30 @@
+PODS:
+  - Alamofire (4.8.2)
+  - Kingfisher (5.5.0)
+  - OAuthSwift (1.4.0)
+  - SDWebImage (5.0.6):
+    - SDWebImage/Core (= 5.0.6)
+  - SDWebImage/Core (5.0.6)
+
+DEPENDENCIES:
+  - Alamofire
+  - Kingfisher
+  - OAuthSwift
+  - SDWebImage
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - Kingfisher
+    - OAuthSwift
+    - SDWebImage
+
+SPEC CHECKSUMS:
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  Kingfisher: 6fe5e67a90fd335e49b0f5c075ff55ac5ebedd94
+  OAuthSwift: 5348bacf6b9bdc89b4c3397dbab17fb0711e198a
+  SDWebImage: 920f1a2ff1ca8296ad34f6e0510a1ef1d70ac965
+
+PODFILE CHECKSUM: 5dc9e8ff0672563d37417ac1441ff3e7f74a9e83
+
+COCOAPODS: 1.7.1
